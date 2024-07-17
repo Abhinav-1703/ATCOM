@@ -8,7 +8,7 @@ const int dtrPin = 18;
 const int riPin = 19;
 
 // ThingSpeak API details
-const String apiKey = "0W3UQ3FC9HSSCYRL";
+const String apiKey = "xxxxxxxx";
 const String server = "api.thingspeak.com";
 
 // APN details for your cellular network provider
